@@ -2,8 +2,8 @@
 ### 姓名：袁绍通 学号：17341194
 文件结构：
 ````
+├── README
 ├──Inverted
-	├── README
 	├── input                 输入文件夹    
 	│   ├── 2018text1.txt     三篇文章当成输入
 	│   ├── 2019text1.txt    
